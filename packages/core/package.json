@@ -53,7 +53,7 @@
     "@chakra-ui/c-tag": "workspace:*",
     "@chakra-ui/c-theme-provider": "workspace:*",
     "@chakra-ui/c-visually-hidden": "workspace:*",
-    "@chakra-ui/styled-system": "2.5.1",
+    "@chakra-ui/styled-system": "2.6.1",
     "@chakra-ui/theme": "^2.2.5",
     "@chakra-ui/theme-tools": "^2.0.16",
     "@chakra-ui/theme-utils": "^2.0.6",
